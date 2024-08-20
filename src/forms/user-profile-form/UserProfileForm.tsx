@@ -16,7 +16,6 @@ import { Button } from "@/components/ui/button";
 import { User } from "@/types";
 import { useEffect } from "react";
 
-
 const formSchema = z.object({
   email: z.string().optional(),
   name: z.string().min(1, "name is required"),
