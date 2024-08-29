@@ -1,4 +1,3 @@
-
 # Chow Chow Food Ordering App
 
 Welcome to the **Chow Chow Food Ordering App**! This application provides a seamless experience for managing restaurants and placing orders online. Below you will find instructions on how to set up and use the app, including how to simulate the app’s functionality.
