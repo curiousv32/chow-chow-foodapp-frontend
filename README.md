@@ -1,6 +1,3 @@
-Here’s a professional README template for your "Chow Chow" app that includes instructions for recruiters on how to try out the live version and simulate the app. You can customize the content further as needed:
-
----
 
 # Chow Chow Food Ordering App
 
