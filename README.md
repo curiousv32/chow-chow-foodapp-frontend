@@ -108,5 +108,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or issues, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or issues, please contact [your-email@example.com](mailto:curiousv32@gmail.com).
 
