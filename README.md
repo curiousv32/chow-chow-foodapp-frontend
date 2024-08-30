@@ -30,7 +30,7 @@ You can try out the live application here: [Chow Chow Live App](https://chow-cho
 1. Open a **regular browser** window.
 2. Log in as a **user** (if you don’t have an account, you can sign up as a new user).
 3. Navigate to the **Home Page**.
-4. Search for the restaurant you created in the incognito window.
+4. Search for the restaurant you created (by location or name) in the incognito window.
 5. Place an order for that restaurant.
 6. You will be redirected to Stripe for payment processing.
 
@@ -73,7 +73,7 @@ You can try out the live application here: [Chow Chow Live App](https://chow-cho
    ```bash
    npm install
    ```
-4. Set up environment variables in a `.env` file with the required keys (refer to `.env.example` for the format).
+4. Set up environment variables in a `.env` file with the required keys.
 5. Start the backend server:
    ```bash
    npm start
